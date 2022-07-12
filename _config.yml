@@ -5,7 +5,7 @@ description: "뭐가이렇게 복잡하냐 쉽다면서!!!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url :  https://5jenny4.github.io
-baseurl: /blog
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
